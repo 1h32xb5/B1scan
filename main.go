@@ -5,7 +5,7 @@ Copyright © 2022 NAME HERE <EMAIL ADDRESS>
 package main
 
 import (
-	"demo/cmd"
+	"B1scan-main/cmd"
 )
 
 func main() {
